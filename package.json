@@ -1,0 +1,24 @@
+{
+  "name": "redux-fsm",
+  "version": "0.0.1",
+  "description": "Make you reducers an FSM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlmanning/redux-fsm.git"
+  },
+  "keywords": [
+    "redux",
+    "fsm",
+    "reducers"
+  ],
+  "author": "David Manning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlmanning/redux-fsm/issues"
+  },
+  "homepage": "https://github.com/dlmanning/redux-fsm#readme"
+}
